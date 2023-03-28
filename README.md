@@ -2,10 +2,10 @@
  RDT Stop and Wait Protocol using UDP
 
 Steps to run:
-Compile all Java files.
-Run Pipe
-Run Server
-Run Client
+<br>Compile all Java files.
+<br>Run Pipe
+<br>Run Server
+<br>Run Client
 
 All features are hard-coded, but can be quickly manipulated by editing the client.in and server.in files.
 
